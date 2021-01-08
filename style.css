@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+   
+     background-image: linear-gradient(red, yellow, blue);
+    
+    
+}
+p{
+    font-family: 'Langar', cursive; 
+}
+img{
+
+    width:30%;
+     border-radius:50%; 
+}
+.menu{
+    list-style: none;
+float: left;
+color:antiquewhite;
+font-size: 23px;
+font-family: 'Xanh Mono', monospace;
+}
+
+.link{
+    display: inline;
+    padding: 20px;
+    
+
+}
+.link:hover{
+    background-color:aqua;
+text-decoration: underline;
+}
